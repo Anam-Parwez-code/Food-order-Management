@@ -3,9 +3,8 @@
 **RaftFoods** is a modern, high-performance food ordering platform built with industry-standard web technologies. The project focuses on a seamless user journey, from browsing the menu to generating a unique order confirmation.
 
 ## 🚀 Live Demo
-- **Frontend App:** [https://food-order-management-frontend.vercel.app/](https://food-order-management-frontend.vercel.app/)
-- **Backend API:** [https://food-order-management-eight.vercel.app/](https://food-order-management-eight.vercel.app/)
-
+- **View Website:** [https://food-order-management-frontend.vercel.app/](https://food-order-management-frontend.vercel.app/) 👈 (Main App)
+- **API Server:** [https://food-order-management-eight.vercel.app/](https://food-order-management-eight.vercel.app/) (Backend)
 ---
 
 ## ✨ Key Features

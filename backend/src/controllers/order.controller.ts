@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { orders, menu, Order } from '../models/order.model';
-const { nanoid }= require( 'nanoid');
+import { nanoid } from 'nanoid';
 
 // 1. Get Menu
 export const getMenu = (req: Request, res: Response) => {

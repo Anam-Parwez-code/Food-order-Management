@@ -5,7 +5,8 @@ import {
   CheckCircle, Clock, X, ArrowRight, Utensils, Inbox
 } from 'lucide-react';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+// Localhost hata kar apna backend link daal dein
+const API_BASE_URL = 'https://food-order-management-eight.vercel.app';
 
 const App = () => {
   const [menu, setMenu] = useState<any[]>([]);

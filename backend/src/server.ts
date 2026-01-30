@@ -15,4 +15,4 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
 
-export { app }; // Testing ke liye export
+export default app;// Testing ke liye export

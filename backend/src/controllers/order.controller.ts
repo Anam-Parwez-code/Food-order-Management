@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { orders, menu, Order } from '../models/order.model';
-import { nanoid } from 'nanoid';
+import crypto from 'crypto';
 
 // 1. Get Menu
 export const getMenu = (req: Request, res: Response) => {
@@ -17,7 +17,7 @@ export const placeOrder = (req: Request, res: Response) => {
   }
 
   const newOrder: Order = {
-    id: nanoid(10),
+    id: crypto.randomBytes(10).toString('hex'),
     customer,
     items,
     total,

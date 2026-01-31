@@ -5,6 +5,7 @@
 ## 🚀 Live Demo
 - **View Website:** [https://food-order-management-frontend.vercel.app/](https://food-order-management-frontend.vercel.app/) 👈 (Main App)
 - **API Server:** [https://food-order-management-eight.vercel.app/](https://food-order-management-eight.vercel.app/) (Backend)
+- Video Walkthrough: [https://www.loom.com/share/356c0b0246ff465ba9a355cb78778fd2](https://www.loom.com/share/356c0b0246ff465ba9a355cb78778fd2)
 ---
 
 ## ✨ Key Features
